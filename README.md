@@ -148,7 +148,7 @@ Traverse the array, calculate the sum and then divide by the number of elements 
 Use conditional statements to compare elements and determine the max and min values.
 
 5) Different Ways to Declare and Initialize a String
-Using character arrays: char str[] = "Hello";
+   Using character arrays: char str[] = "Hello";
 
 Using string class: string str = "World";
 
