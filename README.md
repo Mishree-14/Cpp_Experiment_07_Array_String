@@ -207,6 +207,10 @@ Average of Array Elements: 61
 
 ### 5. Printing String
 ```
+C++
+C++
+C++
+C++
 ```
 
 ### 6. Displaying String
@@ -217,6 +221,9 @@ Given string: mishree
 
 ### 7. Concatenation of String
 ```
+Enter Firstname: Mishree
+Enter Lastname: Kalaria
+Mishree Kalaria
 ```
 
 ### 8. Reversing the String
