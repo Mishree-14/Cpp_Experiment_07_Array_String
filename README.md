@@ -173,3 +173,48 @@ Loops (for, while)
 Conditional Statements (if-else)
 
 Functions from <string> header like length(), etc.,.
+
+## Sample Output
+### 1. Printing Array
+```
+```
+
+### 2. Searching number in Array
+```
+Enter element-1: 72
+Enter element-2: 900
+Enter element-3: 71891
+Enter element-4: 730
+Enter element-5: 8
+Enter element to be searched: 900
+Position of 900: 2
+```
+
+### 3. Finding Largest and Smallest number in Array
+```
+```
+
+### 4. Sum and Average of Array
+```
+```
+
+### 5. Printing String
+```
+```
+
+### 6. Displaying String
+```
+```
+
+### 7. Concatenation of String
+```
+```
+
+### 8. Reversing the String
+```
+Enter string: Mishree
+eerhsiM
+```
+### 9. Palindrome Check
+```
+```
