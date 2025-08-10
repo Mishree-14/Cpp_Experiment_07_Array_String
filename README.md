@@ -177,6 +177,7 @@ Functions from <string> header like length(), etc.,.
 ## Sample Output
 ### 1. Printing Array
 ```
+47	160	89	3782	715
 ```
 
 ### 2. Searching number in Array
@@ -199,6 +200,9 @@ Smallest Number of Array: 7
 
 ### 4. Sum and Average of Array
 ```
+52	81	50	37	89	
+Sum of Array Elements: 309
+Average of Array Elements: 61
 ```
 
 ### 5. Printing String
