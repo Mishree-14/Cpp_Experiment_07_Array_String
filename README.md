@@ -161,7 +161,7 @@ Using a loop from end to start or using built-in functions like reverse().
 8) Palindrome Checking
 Check whether the string reads the same forward and backward.
 
-Compare characters from start and end using a loop.
+   Compare characters from start and end using a loop.
 
 ## Concepts Used:
 Array Traversal & Manipulation
