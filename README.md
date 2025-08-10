@@ -192,6 +192,9 @@ Position of 900: 2
 
 ### 3. Finding Largest and Smallest number in Array
 ```
+11	42	50	90	7	
+Largest Number of Array: 90
+Smallest Number of Array: 7
 ```
 
 ### 4. Sum and Average of Array
@@ -204,6 +207,8 @@ Position of 900: 2
 
 ### 6. Displaying String
 ```
+Enter string: mishree
+Given string: mishree
 ```
 
 ### 7. Concatenation of String
