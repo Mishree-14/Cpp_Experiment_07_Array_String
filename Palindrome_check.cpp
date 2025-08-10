@@ -2,28 +2,33 @@
 //24070123052
 //Batch : A2
 
-#include<iostream>
-#include<string>
+#include <iostream>
+#include <string>
 using namespace std;
 
 int main() {
-    string a;
-     
-    cout<<"Enter a string: ";
-    cin>>a;
-    int n=a.length(), i, flag=0;
+    string str;
+    cout << "Enter a string: ";
+    cin >> str;
 
-    for(i=0;i<a.length();i++){
-        if(a[i]==a[n-1]){
-            flag=1;
+    int start = 0;
+    int end = str.length() - 1;
+    bool isPalindrome = true;
+
+    while (start < end) {
+        if (str[start] != str[end]) {
+            isPalindrome = false;
+            break;
         }
-        n--;
+        start++;
+        end--;
     }
-    if(flag==1){
-        cout<<a<<" is palindrome";
-    }
-    else{
-        cout<<a<<" is not palindrome";
-    }
+
+    if (isPalindrome)
+        cout <<str<< " is a Palindrome" << endl;
+    else
+        cout <<str<< " is not a palindrome" << endl;
+
     return 0;
 }
+
