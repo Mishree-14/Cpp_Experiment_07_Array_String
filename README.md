@@ -231,6 +231,13 @@ Mishree Kalaria
 Enter string: Mishree
 eerhsiM
 ```
+
 ### 9. Palindrome Check
 ```
+Enter a string: madam
+madam is palindrome
+```
+```
+Enter a string: class
+class is not a palindrome
 ```
