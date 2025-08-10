@@ -150,7 +150,7 @@ Use conditional statements to compare elements and determine the max and min val
 5) Different Ways to Declare and Initialize a String
    Using character arrays: char str[] = "Hello";
 
-Using string class: string str = "World";
+   Using string class: string str = "World";
 
 6) Concatenation of Strings
 Using + operator or append() method in string class to combine two strings.
@@ -163,7 +163,7 @@ Check whether the string reads the same forward and backward.
 
 Compare characters from start and end using a loop.
 
-Concepts Used:
+## Concepts Used:
 Array Traversal & Manipulation
 
 String Handling (C-style and C++ style)
@@ -172,4 +172,4 @@ Loops (for, while)
 
 Conditional Statements (if-else)
 
-Functions from <string> header like length(), append(), etc
+Functions from <string> header like length(), etc.,.
